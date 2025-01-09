@@ -3,6 +3,6 @@ configmap:
 deployment:
   imageVersion: latest
 deployment:
-  replicas: 2  
+  replicas: 2
 
 
