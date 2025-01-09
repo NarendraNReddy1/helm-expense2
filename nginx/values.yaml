@@ -2,7 +2,6 @@ configmap:
   port: 8080
 deployment:
   imageVersion: latest
-deployment:
   replicas: 2
 
 
